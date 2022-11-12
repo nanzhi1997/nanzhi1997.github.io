@@ -3,11 +3,11 @@
   <title>南枳</title>
   <icon>https://www.gravatar.com/avatar/451702e5c749857c2503c05e79dc0cb5</icon>
   <subtitle>一切尽意，百事从欢.</subtitle>
-  <link href="https://anzhiy.cn/atom.xml" rel="self"/>
+  <link href="https://nanzhi1997.github.io/%E5%8D%97%E6%9E%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/atom.xml" rel="self"/>
   
-  <link href="https://anzhiy.cn/"/>
+  <link href="https://nanzhi1997.github.io/%E5%8D%97%E6%9E%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
   <updated>2022-11-12T14:34:06.997Z</updated>
-  <id>https://anzhiy.cn/</id>
+  <id>https://nanzhi1997.github.io/%E5%8D%97%E6%9E%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
   
   <author>
     <name>南枳</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://anzhiy.cn/posts/3eeb.html"/>
-    <id>https://anzhiy.cn/posts/3eeb.html</id>
+    <link href="https://nanzhi1997.github.io/%E5%8D%97%E6%9E%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/posts/3eeb.html"/>
+    <id>https://nanzhi1997.github.io/%E5%8D%97%E6%9E%B3%E7%9A%84%E5%8D%9A%E5%AE%A2/posts/3eeb.html</id>
     <published>2022-11-12T13:55:20.912Z</published>
     <updated>2022-11-12T14:34:06.997Z</updated>
     
